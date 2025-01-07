@@ -4,8 +4,13 @@
 
 ---
 
-## 📋 Key Features
-- 🔍 **Explore Lifestyle Data**: Analyze key health and socioeconomic factors.
+## 📄 Dataset
+- **Source**: https://www.kaggle.com/datasets/hassaneskikri/brfss-samplecsv
+- **Description**: Contains data on natural disasters, including types, locations, impacts, and recovery measures.
+
+  
+## 🔍 Objectives
+- 📋 **Explore Lifestyle Data**: Analyze key health and socioeconomic factors.
 - 📈 **Visualize Patterns**: Generate insightful visualizations like heatmaps, scatter plots, and histograms.
 - 📊 **Statistical Analysis**: Perform hypothesis testing and correlation analysis.
 - 💡 **Actionable Insights**: Identify lifestyle patterns affecting health outcomes.
