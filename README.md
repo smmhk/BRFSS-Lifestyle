@@ -1,4 +1,4 @@
-# 📊 Deciphering Health Patterns: BRFSS Lifestyle
+# 🚶 Deciphering Health Patterns: BRFSS Lifestyle
 
 ✨ **Deciphering Health Patterns** analyzes the Behavioral Risk Factor Surveillance System (BRFSS) dataset to uncover lifestyle patterns and their impact on health outcomes. This project uses Python and statistical techniques to extract meaningful insights.
 
